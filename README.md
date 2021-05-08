@@ -1,2 +1,2 @@
 # CSIS1280-Project
-Personal Website (HTML, CSS, JavaScript)
+CSIS Project: Personal Website (HTML, CSS, JavaScript)
